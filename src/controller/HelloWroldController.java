@@ -5,6 +5,8 @@ import javax.servlet.http.HttpServletResponse;
 import org.springframework.web.servlet.ModelAndView;
 import org.springframework.web.servlet.mvc.Controller;
 
+
+//基于web.xml配置方式
 public class HelloWroldController implements Controller {
 
 	@Override
